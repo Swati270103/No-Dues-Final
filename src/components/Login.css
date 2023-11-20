@@ -1,0 +1,40 @@
+.cont-log{
+    border: 1px solid black;
+    position: relative;
+    top: 220px;
+    left:33%;
+    width: 500px;
+    padding: 50px;
+    background-color: rgb(94, 94, 79);
+    margin-bottom: 300px;
+}
+input{
+    height: 40px;
+    border: 1px;
+    border-radius: none;
+    width: 400px;
+    padding: 10px;
+}
+input[type=submit]{
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+.cutm-logo{
+    height: 110px;
+    position: relative;
+    left: 38%;
+    padding-bottom: 10px;
+    
+}
+p{
+    font-size: 20px;
+    margin-top: 10px;
+    display: inline;
+}
+.register-ln{
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 10px;
+  
+}
+

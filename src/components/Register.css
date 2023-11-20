@@ -1,0 +1,21 @@
+.reg-form{
+    border: 1px solid black;
+    position: relative;
+    top: 230px;
+    width: 500px;
+    padding: 50px;
+    left: 33%;
+    background-color: 	#90848e;
+    margin-bottom: -400px;
+   
+}
+.in-pt{
+    margin: 10px;
+    width: 400px;
+}
+.cutm-log{
+    position: relative;
+    left: 160px;
+    height: 100px;
+    margin-bottom: 10px;
+}
